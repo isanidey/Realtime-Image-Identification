@@ -1,0 +1,45 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px lightpink;
+    font-family: 'Dancing Script', cursive;
+}
+.heading_div
+{
+    float: none;
+    background: lightskyblue;
+    padding: 10px;
+    border-radius: 20px;
+    color: magenta;
+    box-shadow: mediumvioletred;
+    font-family: 'Dancing Script', cursive;
+}
+.heading_div2
+{
+    font-size: 18px;
+    font-family: 'Dancing Script', cursive;
+}
+.result_para_tag
+{
+    box-shadow: 5px 5px 5px magenta;
+    font-size: 20px;
+}
+.copy_right_footer 
+{
+    position: fixed;
+    color: mediumaquamarine;
+    bottom: 0;
+    width: 100px;
+    background-color:mistyrose ;
+    line-height: 3;
+    text-align: center;
+}
+canvas
+{
+    border: 5px solid crimson;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px mediumvioletred;
+    margin-top: 150px;
+}
